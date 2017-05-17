@@ -1,0 +1,10 @@
+{
+    "name": "Mars",
+    "disc": "1877",
+    "mass": "6.39 × 10^23 kg",
+    "size": "2,106 mi",
+    "distFromSun": "141.6 million mi",
+    "atmosphere-composition": ["Carbon Dioxide", "Nitrogen"],
+    "satellites": "2",
+    "orbiters": "54"
+}

@@ -1,0 +1,12 @@
+{
+
+	"name": "Earth",
+	"disc": "4 Billion",
+	"mass": "5.572x10^24 kg",
+	"size": "3959 mi",
+	"distFromSun": "92.06 million mi",
+	"atmosphere": "nitrogen and oxygen",
+	"satellites": "Earth's moon",
+	"orbiters": "The International Space Station"
+
+}
